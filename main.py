@@ -30,7 +30,7 @@ class marvel_series():
 
 
 objeto = marvel_series()
-print(objeto.get_data(0))
+print(objeto.get_data())
 
 
 
